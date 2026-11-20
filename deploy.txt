@@ -1,0 +1,7 @@
+My Website is Live!
+I successfully deployed my responsive Flexbox Navigation Bar project using GitHub Pages.
+✨ Features:
+Responsive navigation bar
+Flexbox layout
+Mobile-friendly hamburger menu
+HTML, CSS and JavaScript
